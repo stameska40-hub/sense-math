@@ -1,0 +1,6 @@
+{
+  "name": "SenseMath",
+  "description": "A QAMA-inspired mental estimation calculator that prompts for an approximation before unlocking exact answers, featuring custom task entry, problem simulator, and adjustable tolerance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
